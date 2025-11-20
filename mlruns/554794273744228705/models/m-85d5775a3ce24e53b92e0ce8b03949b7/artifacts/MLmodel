@@ -1,0 +1,22 @@
+artifact_path: file:///home/sanjay/market-pulse/mlruns/554794273744228705/models/m-85d5775a3ce24e53b92e0ce8b03949b7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-85d5775a3ce24e53b92e0ce8b03949b7
+model_size_bytes: 19199
+model_uuid: m-85d5775a3ce24e53b92e0ce8b03949b7
+prompts: null
+run_id: 45ff4f9f26364a6f8dbea9118c64c86c
+utc_time_created: '2025-11-20 05:48:56.115004'

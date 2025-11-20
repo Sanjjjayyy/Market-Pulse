@@ -1,0 +1,10 @@
+artifact_location: file:///home/sanjay/market-pulse/mlruns/554794273744228705/models/m-970aa1bee5764df293d3254dc8f96100/artifacts
+creation_timestamp: 1763617928361
+experiment_id: '554794273744228705'
+last_updated_timestamp: 1763617931313
+model_id: m-970aa1bee5764df293d3254dc8f96100
+model_type: null
+name: model
+source_run_id: 5f44460ad14c4e94bfec56879b8ebae9
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/sanjay/market-pulse/mlruns/554794273744228705/5f44460ad14c4e94bfec56879b8ebae9/artifacts
+end_time: 1763617931317
+entry_point_name: ''
+experiment_id: '554794273744228705'
+lifecycle_stage: active
+run_id: 5f44460ad14c4e94bfec56879b8ebae9
+run_name: debonair-rat-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763617915193
+status: 3
+tags: []
+user_id: sanjay
